@@ -50,6 +50,13 @@ This project builds an **end-to-end Pricing Optimization Model** using real reta
 
 ---
 
+## ✨ Results: Optimal Price Comparison
+
+The plot below compares the predicted profit curves for the Random Forest (RF) and XGBoost models across a range of unit prices. The vertical lines indicate the optimal price point identified by each model to maximize predicted profit.
+![Optimal Price Comparison Plot](/Users/kiranbele/Downloads/Pricing-Model/output.png)
+
+---
+
 ## 🚀 Future Work
 
 - Integrate more features (e.g., customer demographics, seasonality effects)
